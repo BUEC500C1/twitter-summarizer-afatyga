@@ -1,4 +1,4 @@
 tweepy==3.8.0
-urllib3==1.24.3
+urllib3==1.26.5
 google-cloud==0.34.0
 google-cloud-vision==0.41.0
